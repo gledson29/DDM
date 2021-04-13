@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">STADIA Gestão Transporte Escolar</string>
+    <string name="mensagem_inicial">Bem-vindo ao STDIAApp</string>
+    <string name="mensagem_login">Faça seu login</string>
+    <string name="action_buscar">Buscar</string>
+    <string name="action_atualizar">Atualizar</string>
+    <string name="action_config">config</string>
+
+</resources>
